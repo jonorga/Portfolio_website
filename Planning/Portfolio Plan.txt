@@ -1,0 +1,10 @@
+Main font is Quicksand from Google fonts
+
+- When app name is hovered over it gets underlined
+- When clicked, a dropdown section with a video, short description, and link to stores show up
+
+
+Todo:
+- How do you animate stuff again?
+- How does hover over work again?
+- How do drop downs/subsections work again?
